@@ -6,6 +6,6 @@
 
 Inria, École normale supérieure, CNRS, PSL Research University
 
-**[Project page](https://zeeshank95.github.io/deflowcritic/)**
+**[Paper (arXiv)](https://arxiv.org/abs/2611.28265)** · **[Project page](https://zeeshank95.github.io/deflowcritic/)**
 
 ## Code coming soon
